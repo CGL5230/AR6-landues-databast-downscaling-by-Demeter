@@ -1,6 +1,6 @@
 # Method  ＆ Question
 
-1. The land use data provided by AR6 and Demeter's standard land categories are not consistent.
+## **1.The land use data provided by AR6 and Demeter's standard land categories are not consistent.**
 
 Using the example of Forest, Argentina.
 
@@ -23,7 +23,7 @@ We note that not all of the GCAM region will be planted in the C1 scenario.We no
 
 ![image.png](image%202.png)
 
-1. Weights for assigning basins to each country
+## **2.Weights for assigning basins to each country**
 
 Since AR6 only provides values for each country, but we want to assign a basin in GCAM for Demeter.
 
@@ -35,7 +35,7 @@ We summed the 1975-2015 values for each BASIN section.
 
 ![image.png](image%203.png)
 
-1. Result of example 
+## **3.Result of example**
 
 From the AR6 data and the Demeter data, we select the forest in the Argentine area as an example. We aim to reassign the AR6 country level to the basin level, which has been matched to the project table (gcam_ref_scenario_reg32_basin235_v5p1p3.csv) of the Demeter.
 
