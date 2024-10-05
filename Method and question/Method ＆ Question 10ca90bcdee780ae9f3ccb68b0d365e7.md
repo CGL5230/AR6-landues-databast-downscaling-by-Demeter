@@ -19,7 +19,7 @@ The solution we have used is
 
 Discussion
 
-We note that not all of the GCAM region will be planted in the C1 scenario.We note that not all of the GCAM region will be planted in the C1 scenario. However, inside the Demeter Projected data there are Forest changes in each region. How does this need to be considered?
+We note that not all of the GCAM region will be planted in the C1 scenario. However, inside the Demeter Projected data there are Forest changes in each region. How does this need to be considered?
 
 ![image.png](image%202.png)
 
