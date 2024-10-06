@@ -1,0 +1,7 @@
+category,forest,shrub,grass,urban,snow,sparse,crops
+Built-up Area,0,0,0,1,0,0,0
+Cropland,0,0,0,0,0,0,1
+Forest,1,0,0,0,0,0,0
+Other Land,0,0,0,0,0,1,0
+Other Arable Land,0,0,0,0,0,0,1
+Pasture,0,0,1,0,0,0,0
